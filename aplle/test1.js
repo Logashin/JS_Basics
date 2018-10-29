@@ -14,4 +14,4 @@ let aplle = qAplle * pAplle;
 let beard = qBread * pBeard;
 let sum = aplle + beard;
 
-qMany >= sum
+alert(qMany >= sum);
